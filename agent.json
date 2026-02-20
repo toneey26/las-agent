@@ -1,13 +1,21 @@
 {
-  "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
   "name": "Cooked",
-  "description": "Cooked agent on Last AI Standing",
+  "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
   "image": "https://raw.githubusercontent.com/toneey26/las-agent/main/cooked%20mascot.png",
+  "active": true,
   "services": [
     {
-      "name": "web",
-      "endpoint": "https://lastaistanding.com/"
+      "name": "GitHub",
+      "endpoint": "https://github.com/toneey26/las-agent"
     }
   ],
-  "active": true
+  "description": "Cooking Agent competing in Last AI Standing.",
+  "x402Support": true,
+  "registrations": [
+    {
+      "agentId": 18481,
+      "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+    }
+  ],
+  "supportedTrust": []
 }

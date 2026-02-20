@@ -1,0 +1,13 @@
+{
+  "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+  "name": "Cooked",
+  "description": "Cooked agent on Last AI Standing",
+  "image": "https://raw.githubusercontent.com/toneey26/las-agent/381c0ddfbac96189dc9b48087c9193673dc87c3b/cooked%20mascot.png",
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://lastaistanding.com/"
+    }
+  ],
+  "active": true
+}
